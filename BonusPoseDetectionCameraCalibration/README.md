@@ -8,12 +8,16 @@ A Convolutional Neural Network (CNN) for hand point detection is designed to fin
 
 By sourcing 3d points of intrest we project and tranfrom them to 2d pixel space and then constructing coordinate frames with the following method:
 
+>[!NOTE]
+> The video was made using manim (3blue1brown python library)
+
 https://github.com/user-attachments/assets/650a4b61-011d-49f1-b729-f656443bfa83
 
 > [!TIP]
 >Camera calibration is a crucial step towards achieving accurate results. By running calibration.py and visiting https://calib.io/pages/camera-calibration-pattern-generator using a flat monitor you can find the intristic parameters of your camera and insert them into your main program (MiniMachineVisionProject.py)
 
 # Results of the project (camera turned off)
+
 ![image](https://github.com/user-attachments/assets/48f209e7-7b2a-4355-aa42-8b3135f52345)
 
 Frame C is Closer to the camera and appears smaller, 
