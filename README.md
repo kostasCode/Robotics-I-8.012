@@ -1,10 +1,9 @@
 #Robotics-I-8.012
 
-keywords: [Computational programing in fundumentals of robotics in Python from the ground up ,
+keywords: [Fundumentals of robotics in Python from the ground up ,
 Camera calibration,
 Ur5e conveyor / sorting / paletizing,
 trajectory profiles, roboDk + mujoko exploration]
-
 
 BonusPoseDetectionCameraCalibration -> A small project that draws 3d frames from live camera feed in a window using perspective projection 
 
