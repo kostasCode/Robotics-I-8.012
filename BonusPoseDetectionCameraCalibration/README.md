@@ -24,4 +24,4 @@ Frame C is Closer to the camera and appears smaller,
 Frame F is Farther away from the camera and appears bigger.
 
 >[!NOTE]
->small note if your camera is fliped just remove line 179 -> frame = cv2.flip(frame, 1)
+>Small note if your camera is fliped just remove line 179 -> frame = cv2.flip(frame, 1)
