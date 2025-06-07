@@ -14,3 +14,6 @@ Camera calibration is a crucial step towards acheving accurate results. By runin
 
 # Results of the project (camera turned off)
 ![image](https://github.com/user-attachments/assets/48f209e7-7b2a-4355-aa42-8b3135f52345)
+
+Frame C is Closer to the camera and appears smaller, 
+Frame F is Farther from the camera and appears bigger.
