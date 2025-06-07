@@ -1,10 +1,5 @@
 # Robotics-I-8.012
 
-keywords: [Fundumentals of robotics in Python from the ground up ,
-Camera calibration,
-Ur5e conveyor / sorting / paletizing,
-trajectory profiles, roboDk + mujoko exploration]
-
 BonusPoseDetectionCameraCalibration -> A small project that draws 3d frames from live camera feed in a window using perspective projection 
 
 Mr.Fasoulas_Exercises -> Homogenous transform exercises fundumentals in relative coordninate systems using python
@@ -27,3 +22,8 @@ https://github.com/user-attachments/assets/23be3654-8c9d-4fe0-99a0-c680ff189ce8
 Κινηματική ανάλυση των αρθρωτών ρομπότ
 
 Στο εργαστηριακό μέρος του μαθήματος οι φοιτητές έρχονται σε επαφή με το περιβάλλον προσομοίωσης και off-line προγραμματισμού RoboDK, με την βοήθεια του οποίου προγραμματίζουν τους ρομποτικούς βραχίονες UR5, UR3 της Universal Robots ή/και τον ρομποτικό χειριστή τύπου Δέλτα της ΑΒΒ.
+
+keywords: [Fundumentals of robotics in Python from the ground up ,
+Camera calibration,
+Ur5e conveyor / sorting / paletizing,
+trajectory profiles, roboDk + mujoko exploration]
