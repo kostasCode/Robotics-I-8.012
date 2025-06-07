@@ -13,3 +13,14 @@ keywords: [Computational programing in fundumentals of robotics in Python from t
 Camera calibration,
 Ur5e conveyor / sorting / paletizing,
 trajectory profiles, roboDk + mujoko exploration]
+
+
+BonusPoseDetectionCameraCalibration -> A small project that draws 3d frames from live camera feed in a window using perspective projection 
+
+Mr.Fasoulas_Exercises -> Homogenous transform exercises fundumentals in relative coordninate systems using python
+
+Mr.kavoysianos_Robotics_TrajectoryControl -> Exploring polynomial, trapezoidal / triangular trajectory profiles using python
+
+RoboticsLabTH20049 -> A python library built from the ground up for computing 6 dofs robotic arm states.  
+
+ur5e_Paletizing_project -> A real application for transporting , detecting , sorting and paletizing objects using Ur5e
