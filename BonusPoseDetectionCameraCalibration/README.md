@@ -2,6 +2,11 @@
 
 In this project we explore perspective projection by trying to draw frames using our hands ,(3d points in space) using MediaPipe an open-source framework developed by Google for building pipelines to process video, audio, and other multimedia types.
 
+# Results of the project (camera turned off)
+![image](https://github.com/user-attachments/assets/48f209e7-7b2a-4355-aa42-8b3135f52345)
+
+A Convolutional Neural Network (CNN) for hand point detection is designed to find key landmarks (like fingertips and joints) from images.
+
 ![image](https://github.com/user-attachments/assets/0f798e5e-30ea-4f19-bfc4-8ffeffb733de)
 
 By sourcing 3d points of intrest we project and tranfrom them to 2d pixel space and then constructing coordinate frames by the following method
