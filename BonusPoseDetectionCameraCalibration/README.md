@@ -14,7 +14,7 @@ By sourcing 3d points of intrest we project and tranfrom them to 2d pixel space 
 https://github.com/user-attachments/assets/650a4b61-011d-49f1-b729-f656443bfa83
 
 > [!TIP]
->Camera calibration is a crucial step towards achieving accurate results. By running [calibration.py](https://github.com/kostasCode/Robotics-I-8.012/blob/main/BonusPoseDetectionCameraCalibration/calibration.py) and visiting https://calib.io/pages/camera-calibration-pattern-generator using a flat monitor you can find the intristic parameters of your camera and insert them into your main program ([MiniMachineVisionProject.py](https://github.com/kostasCode/Robotics-I-8.012/blob/main/BonusPoseDetectionCameraCalibration/MiniMachineVisionProject.py))
+>Camera calibration is a crucial step towards achieving accurate results. By running [calibration.py](https://github.com/kostasCode/Robotics-I-8.012/blob/main/BonusPoseDetectionCameraCalibration/calibration.py) and visiting [calib.io](https://calib.io/pages/camera-calibration-pattern-generator) using a flat monitor you can find the intristic parameters of your camera and insert them into your main program ([MiniMachineVisionProject.py](https://github.com/kostasCode/Robotics-I-8.012/blob/main/BonusPoseDetectionCameraCalibration/MiniMachineVisionProject.py))
 
 # Results of the project (camera turned off)
 
