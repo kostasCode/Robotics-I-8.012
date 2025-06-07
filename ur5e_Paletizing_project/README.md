@@ -1,3 +1,4 @@
 # Pick and place / paletizing using Ur5e
 A real application for becoming familiar with the way of controlling a robot using the local tablet throw Docker web based simulation
-(check small guide for polyscope installation in Docker)
+
+> [!TIP] (check small guide for polyscope installation in Docker)
