@@ -15,6 +15,10 @@ RoboticsLabTH20049 -> A python library built from the ground up for computing 6 
 
 ur5e_Paletizing_project -> A real application for transporting , detecting , sorting and paletizing objects using Ur5e
 
+# Exploring mujoko
+
+https://github.com/user-attachments/assets/23be3654-8c9d-4fe0-99a0-c680ff189ce8
+
 Περιγραφή θέσης και προσανατολισμού πλαισίου συντεταγμένων
 Πίνακας στροφής 
 Ομογενής μετασχηματισμός
@@ -23,8 +27,3 @@ ur5e_Paletizing_project -> A real application for transporting , detecting , sor
 Κινηματική ανάλυση των αρθρωτών ρομπότ
 
 Στο εργαστηριακό μέρος του μαθήματος οι φοιτητές έρχονται σε επαφή με το περιβάλλον προσομοίωσης και off-line προγραμματισμού RoboDK, με την βοήθεια του οποίου προγραμματίζουν τους ρομποτικούς βραχίονες UR5, UR3 της Universal Robots ή/και τον ρομποτικό χειριστή τύπου Δέλτα της ΑΒΒ.
-
-# Exploring mujoko
-
-https://github.com/user-attachments/assets/23be3654-8c9d-4fe0-99a0-c680ff189ce8
-
