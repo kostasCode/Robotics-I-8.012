@@ -24,3 +24,5 @@ ur5e_Paletizing_project -> A real application for transporting , detecting , sor
 Κινηματική ανάλυση των αρθρωτών ρομπότ
 
 Στο εργαστηριακό μέρος του μαθήματος οι φοιτητές έρχονται σε επαφή με το περιβάλλον προσομοίωσης και off-line προγραμματισμού RoboDK, με την βοήθεια του οποίου προγραμματίζουν τους ρομποτικούς βραχίονες UR5, UR3 της Universal Robots ή/και τον ρομποτικό χειριστή τύπου Δέλτα της ΑΒΒ.
+
+https://youtu.be/AqJFXhZiF6U?si=JGx_FnJD67uYkcL_
