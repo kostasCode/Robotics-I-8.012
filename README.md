@@ -24,4 +24,5 @@ ur5e_Paletizing_project -> A real application for transporting , detecting , sor
 
 Στο εργαστηριακό μέρος του μαθήματος οι φοιτητές έρχονται σε επαφή με το περιβάλλον προσομοίωσης και off-line προγραμματισμού RoboDK, με την βοήθεια του οποίου προγραμματίζουν τους ρομποτικούς βραχίονες UR5, UR3 της Universal Robots ή/και τον ρομποτικό χειριστή τύπου Δέλτα της ΑΒΒ.
 
-https://youtu.be/AqJFXhZiF6U?si=JGx_FnJD67uYkcL_
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AqJFXhZiF6U/0.jpg)]([[https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/AqJFXhZiF6U?si=JGx_FnJD67uYkcL_)](https://www.youtube.com/watch?v=AqJFXhZiF6U&ab_channel=KevinJashari))
+
