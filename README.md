@@ -1,4 +1,4 @@
-#Robotics-I-8.012
+# Robotics-I-8.012
 
 keywords: [Fundumentals of robotics in Python from the ground up ,
 Camera calibration,
@@ -24,5 +24,7 @@ ur5e_Paletizing_project -> A real application for transporting , detecting , sor
 
 Στο εργαστηριακό μέρος του μαθήματος οι φοιτητές έρχονται σε επαφή με το περιβάλλον προσομοίωσης και off-line προγραμματισμού RoboDK, με την βοήθεια του οποίου προγραμματίζουν τους ρομποτικούς βραχίονες UR5, UR3 της Universal Robots ή/και τον ρομποτικό χειριστή τύπου Δέλτα της ΑΒΒ.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AqJFXhZiF6U/0.jpg)]([[https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/AqJFXhZiF6U?si=JGx_FnJD67uYkcL_)](https://www.youtube.com/watch?v=AqJFXhZiF6U&ab_channel=KevinJashari))
+# Exploring mujoko
+
+https://github.com/user-attachments/assets/23be3654-8c9d-4fe0-99a0-c680ff189ce8
 
