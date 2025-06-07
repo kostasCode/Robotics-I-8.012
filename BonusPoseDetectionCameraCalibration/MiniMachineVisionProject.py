@@ -77,18 +77,21 @@ def project_point_3d_to_2d(point_3d):
     width, height = 640, 480
     cx, cy = width // 2, height // 2
 
+    #camera_matrix = np.array(
+        # [
+        #  [462.54083894 ,0,317.05326609],
+        #  [0,347.12777165 , 242.48354991],
+        #  [0,0,1]
+        # ]
+    #, dtype=np.float32)
+    #dist_coeffs = np.array([ 0.18480259 , -0.70968216 , -0.00105616 , -0.00532912 ,  0.69399806], dtype=np.float32) 
+
     camera_matrix = np.array(
-# [
-#  [462.54083894 ,0,317.05326609],
-#  [0,347.12777165 , 242.48354991],
-#  [0,0,1]
-# ]
         [[fx, 0, cx], 
         [0, fy, cy], 
         [0, 0, 1]]
     , dtype=np.float32)
-
-    dist_coeffs = np.array([ 0.18480259 , -0.70968216 , -0.00105616 , -0.00532912 ,  0.69399806], dtype=np.float32) #np.zeros((5, 1), dtype=np.float32)
+    dist_coeffs = np.zeros((5, 1), dtype=np.float32)   
 
     points_3d = np.array([[point_3d]], dtype=np.float32)
     rvec = np.zeros((3, 1), dtype=np.float32)
