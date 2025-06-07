@@ -10,7 +10,8 @@ RoboticsLabTH20049 -> A python library built from the ground up for computing 6 
 
 ur5e_Paletizing_project -> A real application for transporting , detecting , sorting and paletizing objects using Ur5e
 
-# Exploring mujoko
+# Exploring [MuJoCo Menagerie by DeepMind](https://github.com/google-deepmind/mujoco_menagerie/tree/main)
+
 
 https://github.com/user-attachments/assets/23be3654-8c9d-4fe0-99a0-c680ff189ce8
 
