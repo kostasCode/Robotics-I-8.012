@@ -6,7 +6,7 @@ Mr.Fasoulas_Exercises -> Homogenous transform exercises fundumentals in relative
 
 Mr.kavoysianos_Robotics_TrajectoryControl -> Polynomial, trapezoidal / triangular trajectory profiles using python
 
-RoboticsLabTH20049 -> A python library built from the ground up for computing 6 dofs robotic arm states.  
+RoboticsLabTH20049 -> A python library built from the ground up for computing 6 dof robotic arm states.  
 
 ur5e_Paletizing_project -> A real application for transporting , detecting , sorting and paletizing objects using Ur5e
 
