@@ -14,7 +14,7 @@ ur5e_Paletizing_project -> A real application for transporting , detecting , sor
 
 https://github.com/user-attachments/assets/23be3654-8c9d-4fe0-99a0-c680ff189ce8
 
-# Dance demo - Preview of the lab
+# Preview of the lab - Dance demo
 
 ![ezgif-6da2093036177b](https://github.com/user-attachments/assets/7a19eb80-e703-4094-b62e-a128bc9ef745)
 
