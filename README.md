@@ -1,4 +1,4 @@
-# Robotics-I-8.012
+# [Robotics-I-8.012](https://eclass.hmu.gr/courses/MECH134/)
 
 BonusPoseDetectionCameraCalibration -> A small project that draws 3d frames from live camera feed in a window using perspective projection 
 
