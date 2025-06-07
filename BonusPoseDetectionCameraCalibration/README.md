@@ -6,7 +6,7 @@ A Convolutional Neural Network (CNN) for hand point detection is designed to fin
 
 ![image](https://github.com/user-attachments/assets/0f798e5e-30ea-4f19-bfc4-8ffeffb733de)
 
-By sourcing 3d points of intrest we project and tranfrom them to 2d pixel space and then constructing coordinate frames by the following method
+By sourcing 3d points of intrest we project and tranfrom them to 2d pixel space and then constructing coordinate frames with the following method
 
 https://github.com/user-attachments/assets/650a4b61-011d-49f1-b729-f656443bfa83
 
