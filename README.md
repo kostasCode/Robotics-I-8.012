@@ -4,7 +4,7 @@ BonusPoseDetectionCameraCalibration -> A small project that draws 3d frames from
 
 Mr.Fasoulas_Exercises -> Homogenous transform exercises fundumentals in relative coordninate systems using python
 
-Mr.kavoysianos_Robotics_TrajectoryControl -> Exploring polynomial, trapezoidal / triangular trajectory profiles using python
+Mr.kavoysianos_Robotics_TrajectoryControl -> Polynomial, trapezoidal / triangular trajectory profiles using python
 
 RoboticsLabTH20049 -> A python library built from the ground up for computing 6 dofs robotic arm states.  
 
