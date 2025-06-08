@@ -20,8 +20,8 @@ https://github.com/user-attachments/assets/650a4b61-011d-49f1-b729-f656443bfa83
 
 ![image](https://github.com/user-attachments/assets/48f209e7-7b2a-4355-aa42-8b3135f52345)
 
-Frame C is Closer to the camera and appears smaller, 
-Frame F is Farther away from the camera and appears bigger.
+Frame C is Closer to the camera and appears bigger, 
+Frame F is Farther away from the camera and appears smaller.
 
 >[!NOTE]
 >Small note: If your camera is fliped just remove line 179 -> frame = cv2.flip(frame, 1)
