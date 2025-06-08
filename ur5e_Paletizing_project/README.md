@@ -2,7 +2,7 @@
 A real application for becoming familiar with the way of controlling a robot using the local tablet throw Docker web based simulation
 
 >[!TIP] 
->Check small guide for polyscope installation in Docker and access
+>Check small guide for polyscope installation in Docker
 
 > [!IMPORTANT]
 > Demo video link:
