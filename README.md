@@ -25,6 +25,8 @@ https://github.com/user-attachments/assets/23be3654-8c9d-4fe0-99a0-c680ff189ce8
 
 ![image](https://github.com/user-attachments/assets/8e5bdc3d-5ffc-45bd-84a6-3f78d5565c43)
 
+Περιγραφή μαθήματος:
+
 Περιγραφή θέσης και προσανατολισμού πλαισίου συντεταγμένων
 Πίνακας στροφής 
 Ομογενής μετασχηματισμός
