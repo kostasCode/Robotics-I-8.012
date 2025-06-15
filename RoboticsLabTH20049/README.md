@@ -1,6 +1,6 @@
-# Project Overview
+# Lab overview
 
-The project is organized into three parts (A, B, C), following a bottom-up approach from geometric vector operations to robot kinematics and motion planning. The simulated mechanism is a PRR (Prismatic-Revolute-Revolute) robotic arm.
+The lab is organized into three parts (A, B, C), following a bottom-up approach from geometric vector operations to robot kinematics and motion planning. The simulated mechanism is a PRR (Prismatic-Revolute-Revolute) robotic arm.
 
 ## PART A – Vector Geometry & Frame Visualization
 
