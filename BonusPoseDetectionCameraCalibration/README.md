@@ -9,7 +9,7 @@ A Convolutional Neural Network (CNN) for hand point detection is designed to fin
 By sourcing 3d points of intrest we project and tranfrom them to 2d pixel space and then constructing coordinate frames with the following method:
 
 >[!NOTE]
-> The video was made using manim (3blue1brown python library)
+> This video was made using the mathematical animation engine [manim](https://github.com/3b1b/manim)
 
 https://github.com/user-attachments/assets/650a4b61-011d-49f1-b729-f656443bfa83
 
